@@ -1,0 +1,5 @@
+
+101|Rahul Sharma|Casual Leave|2|Pending
+102|Amit Patil|Medical Leave|3|Approved
+103|Priya Shah|Personal Leave|1|Rejected
+104|Sneha Joshi|Casual Leave|4|Pending
